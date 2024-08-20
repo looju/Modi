@@ -1,0 +1,33 @@
+{
+  "name": "modi",
+  "productName": "Modi",
+  "version": "1.0.0",
+  "description": "A cross-platform desktop application for resizing image dimensions",
+  "main": "Main.js",
+  "scripts": {
+    "test": "no test",
+    "start": "electron-forge start",
+    "make": "electron-forge make",
+    "package": "electron-forge package"
+  },
+  "author": "Omofade Oluwaloju",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron-forge/cli": "^7.4.0",
+    "@electron-forge/maker-deb": "^7.4.0",
+    "@electron-forge/maker-rpm": "^7.4.0",
+    "@electron-forge/maker-squirrel": "^7.4.0",
+    "@electron-forge/maker-zip": "^7.4.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.4.0",
+    "@electron-forge/plugin-fuses": "^7.4.0",
+    "@electron/fuses": "^1.8.0",
+    "@types/resize-img": "^2.0.3",
+    "@types/toastify-js": "^1.12.3",
+    "electron": "31.3.1"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
