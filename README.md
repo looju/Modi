@@ -33,7 +33,7 @@ $ npm run make
 ```
 
 ### Gallery
-<div align="center">
+<div align="center" flex-direction="row">
 <img src="https://github.com/user-attachments/assets/16c5c8bc-e962-43d1-b6ac-2a92e96871fd" width="50%" />
 <img src="https://github.com/user-attachments/assets/2a2afa54-dc9c-4194-8267-9e5c47f528c6" width="50%"/>
 <img src="https://github.com/user-attachments/assets/d4373c37-e91e-4585-936c-99a8af6fa40a" width="50%"/>
