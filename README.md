@@ -36,6 +36,6 @@ $ npm run make
 
 ![Screenshot (374)](https://github.com/user-attachments/assets/16c5c8bc-e962-43d1-b6ac-2a92e96871fd)
 
-![Screenshot (378)](https://github.com/user-attachments/assets/2a2afa54-dc9c-4194-8267-9e5c47f528c6)![Screenshot (375)](https://github.com/user-attachments/assets/d4373c37-e91e-4585-936c-99a8af6fa40a)
+![Screenshot (378)](https://github.com/user-attachments/assets/2a2afa54-dc9c-4194-8267-9e5c47f528c6) ![Screenshot (375)](https://github.com/user-attachments/assets/d4373c37-e91e-4585-936c-99a8af6fa40a)
 ![Screenshot (379)](https://github.com/user-attachments/assets/822aa404-7f51-4c7e-abd1-376fbccbfe0d)
 
